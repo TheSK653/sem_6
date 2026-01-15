@@ -1,0 +1,55 @@
+html/css (X)
+tailwind
+js throry + practical
+var let cont dif(wwith scope)
+
+
+clouser (dif from scope)
+
+higher order fn (map filter reduce ever sum)
+callback fn
+polyfil (map filter reduce)
+
+deep copy / shalow copy
+debouncing throtling
+event delegation +capturing+ bubbling
+constructor fn (super prototype journey)
+
+event loop vvvvvvvvvvvvvvimp 
+
+
+file system
+
+
+
+
+
+
+http get post methodes (data send and recive)
+
+middleware : restiction path v methode X :express.jason url : body parsing middleware
+api
+data base
+populate no sql
+frign key + primary
+advantage of nosql (unstructured data/schemaless)
+indexing
+
+
+authorization vs authentication
+schema vaidator 
+
+
+
+why react 5p
+vertual dom :reconcolation, react fiber, defen algo
+lifecycle of react comp.:CDM COU CWUM    useeffect   usestate
+dependency array
+memo vvi usememo usecallback (utilization)
+
+lazy loading
+
+link vs usenavigate 
+
+
+virtual dom 
