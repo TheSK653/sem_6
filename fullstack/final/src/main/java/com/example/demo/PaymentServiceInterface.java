@@ -1,8 +1,5 @@
 package com.example.demo;
 
-import org.springframework.stereotype.Component;
-
-@Component
-public interface PaymentServiceInterface {
-    public String payment();
+public interface paymentServiceInterface {
+    public String pays();
 }
